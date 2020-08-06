@@ -7,7 +7,8 @@ export default {
         price: 60,
         brand: 'Nike',
         rating: 4.5,
-        numReviews: 10
+        numReviews: 10,
+        countInStock: 3,
     },
     {
         _id: '2',
@@ -17,7 +18,8 @@ export default {
         price: 50,
         brand: 'Adidas',
         rating: 4.2,
-        numReviews: 10
+        numReviews: 10,
+        countInStock: 5,
     },
     {
         _id: '3',
@@ -27,7 +29,8 @@ export default {
         price: 70,
         brand: 'Dockers',
         rating: 4.1,
-        numReviews: 10
+        numReviews: 10,
+        countInStock: 4,
     }, {
         _id: '4',
         name: 'Silk Shirt',
@@ -36,7 +39,8 @@ export default {
         price: 200,
         brand: 'Polo',
         rating: 4.5,
-        numReviews: 13
+        numReviews: 13,
+        countInStock: 3,
     }
 ]
 }
